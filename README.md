@@ -1,5 +1,6 @@
 # learn-raspberrypi
 
+Last update all notes on: 8-Dec-2021.
 
 # Files
 
