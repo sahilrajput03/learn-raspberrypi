@@ -48,3 +48,14 @@ and the `.profile` file would be able to run use the configuration without any
 silly error, yikes!!
 
 `sudo chmod +rwx /usr/local/etc/no-ip2.conf`
+
+
+## Install nvm on pios
+
+```
+sudo apt install curl 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+source ~/.profile
+```
+
+[Source](https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/)
