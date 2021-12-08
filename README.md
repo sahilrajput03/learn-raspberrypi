@@ -26,6 +26,8 @@ stress -c 8
 
 ## noip2
 
+Dynamic update client [docs here](https://my.noip.com/dynamic-dns/duc).
+
 ```
 noip2 -S 		#Shows status: *Use sudo to run command in root mode
 			# coz first time after creating a configuration it 
