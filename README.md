@@ -29,12 +29,15 @@ stress -c 8
 Dynamic update client [docs here](https://my.noip.com/dynamic-dns/duc).
 
 ```
+noip2 			# Runs noip2 service.
+noip2 -h 		# Shows help from noip2
+
 noip2 -S 		#Shows status: *Use sudo to run command in root mode
 			# coz first time after creating a configuration it 
 			# doesn't without sudo prefixed, yikes!
+			
+			# If above command says configuratio file is in use by process <ID>. FIX: Simply kill the process by `kill <ID>` and then it would work.
 
-noip2 			# Runs noip2 service.
-noip2 -h 		# Shows help from noip2
 noip2 -K 702 		# Delete an existing configuration running task.
 sudo noip2 -C 		# Use this command to create a new config after terminating a existing running process.
 ```
