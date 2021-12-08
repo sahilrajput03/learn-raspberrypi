@@ -37,7 +37,8 @@ noip2 -S 		#Shows status: *Use sudo to run command in root mode
 			# doesn't without sudo prefixed, yikes!
 			
 			# If above command says configuratio file is in use by process <ID>. FIX: Simply kill the process by `kill <ID>` and then it would work.
-
+			# In the process of creating a config file it'll ask for update inteval time you can choose default(30mins) by simply pressing Enter but 			 # its' good to use 10mins.
+			
 noip2 -K 702 		# Delete an existing configuration running task.
 sudo noip2 -C 		# Use this command to create a new config after terminating a existing running process.
 ```
