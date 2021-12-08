@@ -3,7 +3,7 @@
 
 # Files
 
-File: `~/.bashrc-extended` (FYI: I have `source ~/.bashrc-extended` command in my ~/.bashrc file)
+File: `~/.bashrc-extended` (I have `source ~/.bashrc-extended` command in my ~/.bashrc file)
 
 ```
 alias temperature='/opt/vc/bin/vcgencmd measure_temp'
