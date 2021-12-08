@@ -4,6 +4,8 @@ Last update all notes on: 8-Dec-2021.
 
 Active host: pi-sahil1.ddns.net
 
+Know about system: `hostnamectl` command.
+
 # Files
 
 File: `~/.bashrc-extended`. I have `source ~/.bashrc-extended` command in my `~/.bashrc` file.
