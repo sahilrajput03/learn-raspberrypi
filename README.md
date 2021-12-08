@@ -8,6 +8,10 @@ Active host: pi-sahil1.ddns.net
 
 Know about system: `hostnamectl` command.
 
+###### Current port forwards
+
+80 and 3001-> 3010
+
 **Can't fix port mapping ? Possible reasons:**
 
 - You have defined multiple port forwards for the same port number. (		:LOL: This was the issue for me		)
