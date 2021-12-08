@@ -36,4 +36,4 @@ sudo noip2 -C 		# Use this command to create a new config after terminating a ex
 and the `.profile` file would be able to run use the configuration without any 
 silly error, yikes!!
 
-sudo chmod +rwx /usr/local/etc/no-ip2.conf
+`sudo chmod +rwx /usr/local/etc/no-ip2.conf`
