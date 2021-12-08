@@ -32,9 +32,7 @@ noip2 -h 		# Shows help from noip2
 noip2 -K 702 		# Delete an existing configuration running task.
 sudo noip2 -C 		# Use this command to create a new config after terminating a existing running process.
 
-**IMPORTANT After installation**
-
-Give read permission to the configuration file to all the users by below command,
+**IMPORTANT After installating noip2** give read permission to the configuration file to all the users by below command,
 and the `.profile` file would be able to run use the configuration without any 
 silly error, yikes!!
 
