@@ -62,7 +62,7 @@ silly error, yikes!!
 `sudo chmod +rwx /usr/local/etc/no-ip2.conf`
 
 
-## Install nvm on pios
+## Install nvm on pi-os
 
 ```
 sudo apt install curl 
