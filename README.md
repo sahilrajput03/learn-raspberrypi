@@ -6,6 +6,10 @@ Active host: pi-sahil1.ddns.net
 
 Know about system: `hostnamectl` command.
 
+**Can't fix port mapping ? Possible reasons:**
+
+- You have defined multiple port forwards for the same port number. (		:LOL: This was the issue for me		)
+
 # Files
 
 File: `~/.bashrc-extended`. I have `source ~/.bashrc-extended` command in my `~/.bashrc` file.
