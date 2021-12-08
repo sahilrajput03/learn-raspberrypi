@@ -2,6 +2,8 @@
 
 Last update all notes on: 8-Dec-2021.
 
+***
+
 Active host: pi-sahil1.ddns.net
 
 Know about system: `hostnamectl` command.
