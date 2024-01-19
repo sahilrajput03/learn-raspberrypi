@@ -2,6 +2,26 @@
 
 Last update all notes on: 8-Dec-2021.
 
+# Playing mp3 file:
+
+```bash
+# Download sample mp3 file
+wget https://download.samplelib.com/mp3/sample-3s.mp3
+
+# Play mp3 file with ffmplay utility:
+# Install ffmpeg
+sudo apt install ffmpeg
+# Play mp3 file:
+ffplay -nodisp ./sample-3s.mp3
+
+# With sax:
+# Installation: ```
+sudo apt-get install sox libsox-fmt-all
+
+# Play mp3 file:
+play sample-3s.mp3
+```
+
 ***
 
 Active host: pi-sahil1.ddns.net
