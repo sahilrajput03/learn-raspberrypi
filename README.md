@@ -6,6 +6,8 @@ Last update all notes on: 8-Dec-2021.
 
 Date: 19 Jan, 2024
 
+**NOTE: For some reason the mp3 jack isn't working with ubuntu, but the connection with bluetooth works which is actually awesome though because I can keep it near me all the time. Yikes.**
+
 ```bash
 # Download sample mp3 file
 wget https://download.samplelib.com/mp3/sample-3s.mp3
