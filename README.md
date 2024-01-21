@@ -2,7 +2,9 @@
 
 Last update all notes on: 8-Dec-2021.
 
-# Playing mp3 file
+# Download & Play mp3 file
+
+- Youtube to mp3: [Click here](https://ytmp3.nu/CNtD/)
 
 Date: 19 Jan, 2024
 
