@@ -1,6 +1,8 @@
 # learn-raspberrypi
 
-Last update all notes on: 8-Dec-2021.
+Doc - Learn Ubuntu: [Click here](https://docs.google.com/document/d/1eDQQOdAXI2ihob4qvysJMdphUeUdeizZXN1V90QHXeA/edit)
+
+Last update all notes on: 17 Feb, 2024
 
 # Download & Play mp3 file
 
